@@ -4,7 +4,7 @@ maximum_value = nil
 while count < array.length do
   if array[count] > maximum_value
     maximum_value = array[count]
-    return array[count]
+    return maximum_value
 end
 
 
