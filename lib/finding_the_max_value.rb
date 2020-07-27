@@ -7,9 +7,6 @@ while count < array.length do
     return maximum_value
 end
 
-
-
-
-count += 1
 end
+count += 1
 end
