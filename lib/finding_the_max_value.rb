@@ -6,7 +6,7 @@ while count < array.length do
     maximum_value = array[count]
     return maximum_value
 end
-  
+
 
 
 
